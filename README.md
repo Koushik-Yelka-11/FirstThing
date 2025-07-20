@@ -1,3 +1,4 @@
 # FirstThing
-using git for the first time
+using git for the first timer
+<b>
 -by Koushik
